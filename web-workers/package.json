@@ -1,0 +1,17 @@
+{
+  "name": "web-workers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "0918nobita",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
